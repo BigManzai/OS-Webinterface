@@ -21,7 +21,8 @@ Die Installation ist recht einfach.
 
  
  
-
+    Diese heruntergeladene ZIP Datei entpacken und das Verzeichnis umbenennen in splash.
+    
     Verzeichnis /includes beschreibbar machen.
 
     install.php starten und angaben ausfüllen, anschließend Install anklicken.
