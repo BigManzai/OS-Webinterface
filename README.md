@@ -11,9 +11,7 @@ Die Nutzung der Software geschieht auf eigenes Risiko.
 
 Bitte schützen sie ihren Server vor unbefugten zugriffen.
 
-.
 
-![Title](http://www.gridtalk.de/attachment.php?aid=2693)
 
 
 Diese splash Paket ist alleinstehend und für ein kleines Grid völlig ausreichend.
@@ -21,7 +19,8 @@ Diese splash Paket ist alleinstehend und für ein kleines Grid völlig ausreiche
 
 Die Installation ist recht einfach.
 
-.
+ 
+ 
 
     Verzeichnis /includes beschreibbar machen.
 
