@@ -1,0 +1,129 @@
+HTML {
+	HEIGHT: 100%
+}
+
+BODY {
+        HEIGHT: 100%;
+	PADDING-RIGHT: 0px; 
+        PADDING-LEFT: 0px; 
+        FONT-SIZE: 62.5%; 
+        PADDING-BOTTOM: 0px; 
+        MARGIN: 0px; 
+        WIDTH: 100%; 
+        PADDING-TOP: 0px; 
+        FONT-FAMILY: verdana, helvetica, sans-serif; 
+        color: white;
+}
+
+table.full-height {  
+        width:100%;  
+        border:1px solid black;
+}
+
+A {
+	COLOR: #93a9d5; 
+        TEXT-DECORATION: none
+}
+
+A:active {
+	COLOR: #50607c; 
+        TEXT-DECORATION: none
+}
+
+A:hover {
+	COLOR: #ff7900; 
+        TEXT-DECORATION: underline
+}
+
+.submit {
+        background: url(http://opencad.de/map/img/weiter.png) 0 0 no-repeat;
+        border: none;
+        cursor: pointer;
+        padding: 5px;
+}
+
+.submit:hover {
+        cursor: pointer;
+}
+
+.styleTitel {
+        font-size: 20px;
+        font-weight: bold;
+        color: #AAAAAA;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.styleTitel1 {
+        font-size: 20px;
+        font-weight: bold;
+        color: #ffffff;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.styleItem {
+        font-size: 15px;
+        color: #333333;
+        font-weight: normal;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.styleLink {
+        font-size: 15px;
+        color: white;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.styleDesc {
+        font-size: 15px;
+        color: white;
+        font-weight: normal;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.styleCoords {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: white;
+}
+
+.styleText {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 13px; 
+        color: white;
+}
+
+.styleTopTitle {
+        font-size: 22px;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.styleText1 {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 14px; color: #AAAAAA;
+}
+
+.styleTopTitle {
+        font-size: 22px; 
+        font-weight: bold; 
+        color: white; 
+        font-fiamily: Arial, Helvetica, sans-serif;
+}
+
+.styleOnline {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 16px; 
+        font-weight: bold; color: lightgreen;
+}
+
+.styleOffline {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 16px; 
+        font-weight: bold; color: #ff3030;
+}
+
+.styleplace {
+        color: white;font-size: 5px;
+}
+

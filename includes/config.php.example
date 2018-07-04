@@ -1,0 +1,32 @@
+
+<?php
+
+/* General Domain */
+$CONF_sim_domain = "http://mywebadress.com";  // Your Grid-Domain
+$CONF_install_path = "/splash";		          // Installation path
+
+/* MySQL Database */
+$CONF_db_server   = "localhost";		     //Your Database-Server
+$CONF_db_user  = "root";       	             // login
+$CONF_db_pass    = "password123";     	     // password
+$CONF_db_database   = "opensimdatabasename"; // Name of BDD
+
+/* The Coordinates of the Grid-Center */
+$CONF_center_coord_x = "5000";		         // the Center-X-Coordinate
+$CONF_center_coord_y = "5000";		         // the Center-Y-Koordinate
+
+// ------------------------------------------------------------------------------------
+// Change this items to your Language
+// ------------------------------------------------------------------------------------
+
+  $CONF_txt_north =      "Norden";
+  $CONF_txt_south =      "Sueden";
+  $CONF_txt_west =       "Westen";
+  $CONF_txt_east =       "Osten";
+  $CONF_txt_center =     "Center";
+  $CONF_txt_refresh =    "Refresh";
+  $CONF_txt_occupied =   "Besetzt";
+  $CONF_txt_free =       "FREI";
+  $CONF_txt_coords =     "Koordinaten";
+  
+?>

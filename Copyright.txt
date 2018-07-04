@@ -1,0 +1,54 @@
+Copyright (c) 2011, http://osgrid.org
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+3. All advertising materials mentioning features or use of this software
+   must display the following acknowledgement:
+   This product includes software developed by the OSgrid Inc.
+4. Neither the name of the OSgrid Inc. nor the
+   names of its contributors may be used to endorse or promote products
+   derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY http://osgrid.org ''AS IS'' AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL http://osgrid.org BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Copyright (c) 2011, http://osgrid.org 
+  Alle Rechte vorbehalten. 
+  Redistribution und in Quell- und binärer Form, mit oder ohne 
+  Modifikation sind zulässig, sofern die folgenden Voraussetzungen erfüllt sind: 
+  1. Weitergabe des Quellcodes muss der Copyright behalten 
+  Hinweis, diese Liste der Bedingungen und den folgenden Haftungsausschluss. 
+  2. Weitergabe in binärer Form müssen der obige Copyright reproduzieren 
+  Hinweis, diese Liste der Bedingungen und den folgenden Haftungsausschluss in der 
+  Dokumentation und / oder anderen mit der Verteilung zur Verfügung gestellten Materialien. 
+  3. Alle Werbematerialien, die Funktionen oder die Nutzung dieser Software erwähnen, 
+  zeigen folgende Bestätigung muss: 
+  Dieses Produkt enthält von der OSGrid Inc. entwickelte Software 
+  4. Weder der Name der OSGrid Inc. noch die 
+  Namen der Mitarbeiter dürfen zu unterstützen oder zu fördern Produkte verwendet werden, 
+  ohne vorherige ausdrückliche schriftliche Genehmigung von dieser Software abgeleitet. 
+  DIESE SOFTWARE WIRD VON http://osgrid.org '' als '' AND ANY 
+  Ausdrücklichen oder impliziten Garantien, einschließlich, aber nicht beschränkt auf, die IMPLIZIT 
+  GARANTIEN DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK SIND 
+  AUSGESCHLOSSEN.  IN KEINEM FALL http://osgrid.org die Haftung aus für 
+  Direkte, indirekte, EXEMPLARISCHE ODER FOLGESCHÄDEN 
+  (EINSCHLIESSLICH, ABER NICHT AUF DIE BESCHAFFUNG VON ERSATZPRODUKTEN ODER SERVICES LIMITED; 
+  VERLUST VON DATEN ODER GEWINNEN  ODER BETRIEBSUNTERBRECHUNG) URSACHE UND 
+  AUF WELCHER VERPFLICHTUNG, OB IM VERTRAG, HAFTBARKEIT ODER DELIKTISCH 
+  (EINSCHLIESSLICH FAHRLÄSSIGKEIT), DIE AUF DIE SICH AUS DER NUTZUNG DIESES 
+ SOFTWARE, AUCH WENN DIESER SCHÄDEN IN DIE MÖGLICHKEIT. 
