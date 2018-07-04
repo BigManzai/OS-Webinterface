@@ -1,20 +1,22 @@
-# OS-SPLASH-PHP7_NEW
+# OpenSimulator Webinterface
 Mindestanforderung PHP 5.5 
 
 
 
-Achtung! Diese Software greift lesend auf ihre Datenbank zu.
+Achtung! Diese Software greift lesend und schreibend auf ihre Datenbank zu.
 
 Ich schließe jegliche Gewährleistung aus.
 
 Die Nutzung der Software geschieht auf eigenes Risiko.
+
+Bitte schützen sie ihren Server vor unbefugten zugriffen.
 
 .
 
 ![Title](http://www.gridtalk.de/attachment.php?aid=2693)
 
 
-Diese splash/welcome Seite ist alleinstehend und für ein Grid ohne Anmeldemöglichkeit völlig ausreichend.
+Diese splash Paket ist alleinstehend und für ein kleines Grid völlig ausreichend.
 
 
 Die Installation ist recht einfach.
@@ -33,10 +35,3 @@ Die Installation ist recht einfach.
 
 Fertig!
 
-.
-
-
-Für weitere Info´s bitte oben in die Wiki schauen.
-
-
-Viel Spaß wünsche ich euch. 
